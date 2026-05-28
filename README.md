@@ -1,12 +1,12 @@
 # FUTURE_PE_02
 Future Interns Prompt Engineering Internship - Task 2
-# FUTURE_PE_02
+
 Added Task 2 UGC Ad Content Pack
 
 ## AI Content Marketing using UGC Ads
 
-### Submitted By
-Sanjay
+### Submitted By:sanjay.G
+
 
 ---
 
